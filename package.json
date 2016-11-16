@@ -1,6 +1,6 @@
 {
   "name": "rmf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Remodel framework (RMF)",
   "main": "index.js",
   "scripts": {
