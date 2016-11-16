@@ -1,3 +1,3 @@
-exports = function remodel(){
+module.exports = function (){
     console.log("Remodel package");
 }
