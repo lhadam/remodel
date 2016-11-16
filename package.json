@@ -1,7 +1,7 @@
 {
-  "name": "remodel",
+  "name": "rmf",
   "version": "1.0.0",
-  "description": "Rapid application development framework",
+  "description": "Remodel framework (RMF)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
