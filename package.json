@@ -1,0 +1,19 @@
+{
+  "name": "remodel",
+  "version": "1.0.0",
+  "description": "Rapid application development framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhadam/remodel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhadam/remodel/issues"
+  },
+  "homepage": "https://github.com/lhadam/remodel#readme"
+}
